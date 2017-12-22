@@ -5,9 +5,12 @@ build/
 .gradle
 local.properties
 *.iml
-
+*.html
+*.txt
 # node.js
 #
 node_modules/
+iterate/
 npm-debug.log
+
 
